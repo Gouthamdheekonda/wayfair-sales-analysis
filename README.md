@@ -52,11 +52,14 @@ The project uses four datasets:
 
 ## Visualizations
 
-The `charts/` folder contains visualizations illustrating:
+## Visualizations
 
-* Monthly revenue trends.
-* Monthly seasonality.
-* Net item revenue by product category.
+The following charts illustrate the key findings from the sales analysis:
+
+* **Monthly Revenue Trends:** `monthly_revenue_trend.png`
+* **Monthly Seasonality:** `monthly_seasonality.png`
+* **Revenue by Product Category:** `category_revenue.png`
+
 
 ## Important Notes
 
