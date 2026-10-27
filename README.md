@@ -52,8 +52,6 @@ The project uses four datasets:
 
 ## Visualizations
 
-## Visualizations
-
 The following charts illustrate the key findings from the sales analysis:
 
 * **Monthly Revenue Trends:** `monthly_revenue_trend.png`
